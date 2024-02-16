@@ -47,7 +47,7 @@ Download the data files at the links provided above and insert in the data folde
 - config_declining_disruption.py : configuration file 
 - reanalysis_declining_disruption.ipynb : notebook to reproduce the figures in our manuscript
 - regression_adjustments_patentsview.ipynb : notebook to compute the margins and residuals for the PatentsView regression (models 3 and 4 in Supplementary Table S1)
-- regression_adjustments_sciscinet.ipynb : notebook to compute the margins and residuals for the SciSciNet regression (models 3 and 4 in Supplementary Table S1)
+- regression_adjustments_sciscinet.ipynb : notebook to compute the margins and residuals for the SciSciNet regression (models 1 and 2 in Supplementary Table S1)
 - regression_stata_prep_sciscinet.ipynb : notebook to prepare the SciSciNet data for Stata 
 - regression_adjustments_patentsview.do : compute the robust standard errors for the PatentsView regression models
 - regression_adjustments_sciscinet.do : compute the robust standard errors for the SciSciNet regression models 
